@@ -1,7 +1,7 @@
 <html>
-    <HEad>
+    <head>
         
-    </HEad>
+    </head>
     <body>
 
        
